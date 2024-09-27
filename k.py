@@ -1,3 +1,4 @@
+#задача 1
 try:
     number = float(input())
 
