@@ -1,3 +1,4 @@
+#задача 3
 try:
     number = int(input(" "))
 
